@@ -8,5 +8,9 @@ target
 *.war
 *.ear
 
+.classpath
+.project
+.settings
+
 hs_err_pid*
 
